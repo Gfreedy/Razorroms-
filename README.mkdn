@@ -7,7 +7,7 @@ Getting started
 
 To initialize your local repository using the razorroms trees, use a command like this:
 ```
-repo init -u git://github.com/LineageOS/android.git -b lineage-18.1
+repo init -u git://github.com/Gfreedy/Razorroms.git -b lineage-18.1
 ```
 Then to sync up:
 ```
